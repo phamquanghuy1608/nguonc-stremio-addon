@@ -1,0 +1,13 @@
+{
+  "name": "nguonc-stremio-addon",
+  "version": "1.0.0",
+  "description": "NguonC Stremio/Nuvio Addon for Vercel Serverless",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
